@@ -9,7 +9,6 @@
 
 ### About Me
 - Hackathon enthusiast (**18x** hackathon winner)
-- Love experimenting with new technologies and building user-facing projects that people actually want to use
 - Currently obsessed with how software ***SCALES***
 - Always down to chat about systems, tech, or the next project idea 💬
 
