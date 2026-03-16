@@ -9,7 +9,7 @@
 </p>
 
 ### About Me
-- Hackathon enthusiast (**18x** hackathon winner)
+- Hackathon enthusiast (**20x** hackathon winner)
 - Currently obsessed with how software ***SCALES***
 - Always down to chat about systems, tech, or the next project idea 💬
 
