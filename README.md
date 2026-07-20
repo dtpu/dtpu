@@ -1,10 +1,7 @@
-<div align="center">
-  <a href="https://danielpu.dev" target="_blank">
-  <img src="https://danielpu.dev/header.svg"/>
-  </a>
-</div>
+
 
 <p align="center">
+  <h3>hey i'm daniel!</h3>
   <em>Currently studying <strong>Computer Science</strong> @ <strong>UWaterloo</strong></em><br>
 </p>
 
