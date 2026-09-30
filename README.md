@@ -1,6 +1,9 @@
-### hey i'm daniel!
-Currently studying **Computer Science** @ **UWaterloo**
 
+
+<p align="center">
+  <h3>hey i'm daniel!</h3>
+  <em>Currently studying <strong>Computer Science</strong> @ <strong>UWaterloo</strong></em><br>
+</p>
 
 ### About Me
 - Hackathon enthusiast (**21x** hackathon winner)
